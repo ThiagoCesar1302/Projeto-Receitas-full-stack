@@ -1,3 +1,19 @@
+body{
+  background-image: url(Assets/Página\ de\ receita.jpg);
+background-size: cover;/* a imagem de fundo vai cobrir todo o espaço disponível, aumentando conforme necessário para preencher o espaço.*/
+}
+
+#page{
+  
+  box-sizing: border-box;/* tira padrão da caixa*/
+  width: 800px;
+  padding: 24px;
+  background-color: #F0E8C2;
+  border-radius: 24px;
+  margin: 48px auto;
+
+
+}
 img{
   border-radius: 16px;
 }
